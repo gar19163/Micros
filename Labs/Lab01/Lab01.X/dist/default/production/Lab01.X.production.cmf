@@ -54,37 +54,37 @@ STRING 1C-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $build/default/production/Lab01.o
-0 resVect CODE >51:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-0 resVect CODE >52:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-0 resVect CODE >53:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-2 resVect CODE >54:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-3 resVect CODE >60:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-3 resVect CODE >61:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-4 resVect CODE >62:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-5 resVect CODE >63:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-6 resVect CODE >64:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-7 resVect CODE >66:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-8 resVect CODE >67:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-9 resVect CODE >68:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-A resVect CODE >70:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-B resVect CODE >71:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-C resVect CODE >77:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-C resVect CODE >78:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-D resVect CODE >79:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-E resVect CODE >80:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-F resVect CODE >86:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-F resVect CODE >87:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-10 resVect CODE >88:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-11 resVect CODE >89:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-12 resVect CODE >90:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-15 resVect CODE >91:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-16 resVect CODE >92:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-17 resVect CODE >94:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-17 resVect CODE >95:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-18 resVect CODE >96:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-19 resVect CODE >97:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-1A resVect CODE >98:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
-1B resVect CODE >99:C:\Users\Ale\Documents\Uvg\Micros\Labs\Lab01\Lab01.X\Lab01.s
+0 resVect CODE >51:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+0 resVect CODE >52:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+0 resVect CODE >53:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+2 resVect CODE >54:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+3 resVect CODE >60:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+3 resVect CODE >61:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+4 resVect CODE >62:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+5 resVect CODE >63:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+6 resVect CODE >64:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+7 resVect CODE >66:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+8 resVect CODE >67:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+9 resVect CODE >68:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+A resVect CODE >70:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+B resVect CODE >71:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+C resVect CODE >77:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+C resVect CODE >78:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+D resVect CODE >79:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+E resVect CODE >80:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+F resVect CODE >86:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+F resVect CODE >87:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+10 resVect CODE >88:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+11 resVect CODE >89:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+12 resVect CODE >90:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+15 resVect CODE >91:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+16 resVect CODE >92:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+17 resVect CODE >94:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+17 resVect CODE >95:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+18 resVect CODE >96:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+19 resVect CODE >97:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+1A resVect CODE >98:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
+1B resVect CODE >99:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab01\Lab01.X\Lab01.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.

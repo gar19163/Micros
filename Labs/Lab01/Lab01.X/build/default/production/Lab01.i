@@ -1,7 +1,7 @@
 # 1 "Lab01.s"
 # 1 "<built-in>" 1
 # 1 "Lab01.s" 2
- ;Archivo: main.S
+     ;Archivo: main.S
  ;Dispositivo: PIC16f887
  ;Autor: Alejandro Garcia Aguirre
  ;Compilador: pic-as (v2.30), MPLABX V5.45

@@ -69,11 +69,11 @@ main:
     clrf    ANSELH	;Entrada analógica
     
     banksel TRISA	
-    movlw   11111111B	;ENcendemos entradas en
+    movlw   11111111B	;Encendemos entradas en
     movwf   TRISA
     
  
-    clrf   TRISB
+    clrf   TRISB	;Se coloca puerto B como salida 
     
     movlw   11110000B	;Declaramos el puerto C para ser de 4 bits de salida
     movwf   TRISC

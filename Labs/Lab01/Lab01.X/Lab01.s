@@ -1,4 +1,4 @@
- ;Archivo:	main.S
+     ;Archivo:	main.S
  ;Dispositivo:	PIC16f887
  ;Autor:	Alejandro Garcia Aguirre
  ;Compilador:	pic-as (v2.30), MPLABX V5.45
