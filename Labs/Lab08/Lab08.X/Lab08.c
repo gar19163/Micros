@@ -10,7 +10,7 @@
  *              Transistores de PD0-2
  * 
  * Created on 19 de abril de 2021, 05:50 PM
- * Última modificación:  25 de abril de 2021
+ * Última modificación:  23 de abril de 2021
  */
 
 //-------------------------------------------------------
@@ -68,7 +68,7 @@ const char tabla[10] = {0x3F, 0x06, 0x5B, 0x4F, 0x66,  //0,1,2,3,4
 //-------------------------------------------------------
 void setup(void);
 
-    void __interrupt() isr(void){
+void __interrupt() isr(void){
     if (T0IF==1){
         INTCONbits.T0IF = 0;        //Bajar bandera TMR0
         TMR0 = 247;                 //Reset TMR0
