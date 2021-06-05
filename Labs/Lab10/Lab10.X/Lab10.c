@@ -4,7 +4,7 @@
  * Autor:		Alejandro Garcia Aguirre
  * Compilador:	XC8 (v2.31), MPLABX V5.45
  * 
- * Programa:	Lector de ADC a PWM
+ * Programa:	
  * Hardware:	Puerto A potenciometros 0/1
  *              CCP1 con servo en RC2
  *              CCP2 con servo en RC1
@@ -78,7 +78,6 @@ void __interrupt()isr(void){
         op = RCREG;                     //Recepcion a variable
         __delay_us(100);
         caracter = RCREG;               //caracter para puertos
-        
     }
 }
 
@@ -115,7 +114,7 @@ void main(void){
                 while(PIR1bits.RCIF == 0);//Reviso bandera
                 PORTA = caracter;         //Muestro variable en PORTA
                 __delay_ms(1000);         //Delay para limpiar
-                TXREG = '\f';             //Limpio
+                TXREG = '\f';             //Limpio terminal
                 PORTA = 0x00;             //Limpio puerto
                 ban = 1;                  //Muestro menu
                 break;
@@ -165,7 +164,8 @@ void setup(void){               //Configuraciones del PIC
     //Configuraciones de interrupciones 
     INTCONbits.GIE      = 1;
     INTCONbits.PEIE     = 1;
-    PIR1bits.RCIF       = 0;
+    PIR1bits.RCIF       = 0; 
+    
     PIE1bits.RCIE       = 1;
 }
 //-------------------------------------------------------

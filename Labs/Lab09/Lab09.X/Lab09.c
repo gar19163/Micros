@@ -87,7 +87,7 @@ void __interrupt()isr(void){
 //-------------------------------------------------------
 void main(void){
     setup();                            //Llamamos a nuestras configuraciones
-    
+    ban=1;
     while (1) {                         //Loop
         if(ADCON0bits.GO == 0){         //Cambio de canal
             if(ADCON0bits.CHS == 5)     //Canal 5
@@ -100,6 +100,9 @@ void main(void){
             ADCON0bits.GO = 1;          //GO
         }
    }
+    if(ban==1){
+        menu;
+        }
 }
 //-------------------------------------------------------
 //   Conf PIC

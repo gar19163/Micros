@@ -13,15 +13,15 @@
 [v ___memcpyee __memcpyee `(v  1 e 1 0 ]
 "76 C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 [v _isr isr `II(v  1 e 1 0 ]
-"88
+"87
 [v _main main `(v  1 e 1 0 ]
-"139
+"138
 [v _setup setup `(v  1 e 1 0 ]
 "174
 [v _send_char send_char `(v  1 e 1 0 ]
 "179
 [v _send_str send_str `(v  1 e 1 0 ]
-"166 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f887.h
+"166 C:/Program Files/Microchip/MPLABX/v5.50/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f887.h
 [v _PORTA PORTA `VEuc  1 e 1 @5 ]
 "228
 [v _PORTB PORTB `VEuc  1 e 1 @6 ]
@@ -167,12 +167,12 @@
 [v _pa1 pa1 `[23]uc  1 e 23 0 ]
 "65
 [v _pa pa `[29]uc  1 e 29 0 ]
-"88
+"87
 [v _main main `(v  1 e 1 0 ]
 {
-"134
+"133
 } 0
-"139
+"138
 [v _setup setup `(v  1 e 1 0 ]
 {
 "170
@@ -197,5 +197,5 @@
 "76
 [v _isr isr `II(v  1 e 1 0 ]
 {
-"83
+"82
 } 0

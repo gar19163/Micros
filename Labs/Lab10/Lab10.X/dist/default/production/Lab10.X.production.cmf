@@ -30,7 +30,7 @@ dataBANK1 BANK1 1 A0 A0 38 1
 dataBANK3 BANK3 1 190 190 1D 1
 bssCOMMON COMMON 1 75 75 4 1
 config CONFIG 4 2007 2007 2 2
-$C:\Users\Ale\AppData\Local\Temp\saq8.o
+$C:\Users\Ale\AppData\Local\Temp\sl90.o
 reset_vec CODE 0 0 0 3 2
 end_init CODE 0 C C 3 2
 config CONFIG 4 2007 2007 2 2
@@ -80,51 +80,51 @@ STRING 249-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\Lab10.X.production.o
-F cinit CODE >656:C:\Users\Ale\AppData\Local\Temp\saq8.s
-F cinit CODE >659:C:\Users\Ale\AppData\Local\Temp\saq8.s
-F cinit CODE >749:C:\Users\Ale\AppData\Local\Temp\saq8.s
-10 cinit CODE >750:C:\Users\Ale\AppData\Local\Temp\saq8.s
-11 cinit CODE >751:C:\Users\Ale\AppData\Local\Temp\saq8.s
-12 cinit CODE >752:C:\Users\Ale\AppData\Local\Temp\saq8.s
-13 cinit CODE >753:C:\Users\Ale\AppData\Local\Temp\saq8.s
-14 cinit CODE >754:C:\Users\Ale\AppData\Local\Temp\saq8.s
-15 cinit CODE >755:C:\Users\Ale\AppData\Local\Temp\saq8.s
-16 cinit CODE >756:C:\Users\Ale\AppData\Local\Temp\saq8.s
-17 cinit CODE >757:C:\Users\Ale\AppData\Local\Temp\saq8.s
-18 cinit CODE >758:C:\Users\Ale\AppData\Local\Temp\saq8.s
-1D cinit CODE >762:C:\Users\Ale\AppData\Local\Temp\saq8.s
-1E cinit CODE >763:C:\Users\Ale\AppData\Local\Temp\saq8.s
-1F cinit CODE >764:C:\Users\Ale\AppData\Local\Temp\saq8.s
-20 cinit CODE >765:C:\Users\Ale\AppData\Local\Temp\saq8.s
-21 cinit CODE >766:C:\Users\Ale\AppData\Local\Temp\saq8.s
-22 cinit CODE >767:C:\Users\Ale\AppData\Local\Temp\saq8.s
-23 cinit CODE >768:C:\Users\Ale\AppData\Local\Temp\saq8.s
-24 cinit CODE >769:C:\Users\Ale\AppData\Local\Temp\saq8.s
-25 cinit CODE >770:C:\Users\Ale\AppData\Local\Temp\saq8.s
-26 cinit CODE >771:C:\Users\Ale\AppData\Local\Temp\saq8.s
-2B cinit CODE >775:C:\Users\Ale\AppData\Local\Temp\saq8.s
-2C cinit CODE >776:C:\Users\Ale\AppData\Local\Temp\saq8.s
-2D cinit CODE >777:C:\Users\Ale\AppData\Local\Temp\saq8.s
-2E cinit CODE >778:C:\Users\Ale\AppData\Local\Temp\saq8.s
-2F cinit CODE >779:C:\Users\Ale\AppData\Local\Temp\saq8.s
-30 cinit CODE >780:C:\Users\Ale\AppData\Local\Temp\saq8.s
-31 cinit CODE >781:C:\Users\Ale\AppData\Local\Temp\saq8.s
-32 cinit CODE >782:C:\Users\Ale\AppData\Local\Temp\saq8.s
-33 cinit CODE >783:C:\Users\Ale\AppData\Local\Temp\saq8.s
-38 cinit CODE >787:C:\Users\Ale\AppData\Local\Temp\saq8.s
-39 cinit CODE >788:C:\Users\Ale\AppData\Local\Temp\saq8.s
-3A cinit CODE >789:C:\Users\Ale\AppData\Local\Temp\saq8.s
-3B cinit CODE >790:C:\Users\Ale\AppData\Local\Temp\saq8.s
-3C cinit CODE >796:C:\Users\Ale\AppData\Local\Temp\saq8.s
-3C cinit CODE >798:C:\Users\Ale\AppData\Local\Temp\saq8.s
-3D cinit CODE >799:C:\Users\Ale\AppData\Local\Temp\saq8.s
+F cinit CODE >656:C:\Users\Ale\AppData\Local\Temp\sl90.s
+F cinit CODE >659:C:\Users\Ale\AppData\Local\Temp\sl90.s
+F cinit CODE >749:C:\Users\Ale\AppData\Local\Temp\sl90.s
+10 cinit CODE >750:C:\Users\Ale\AppData\Local\Temp\sl90.s
+11 cinit CODE >751:C:\Users\Ale\AppData\Local\Temp\sl90.s
+12 cinit CODE >752:C:\Users\Ale\AppData\Local\Temp\sl90.s
+13 cinit CODE >753:C:\Users\Ale\AppData\Local\Temp\sl90.s
+14 cinit CODE >754:C:\Users\Ale\AppData\Local\Temp\sl90.s
+15 cinit CODE >755:C:\Users\Ale\AppData\Local\Temp\sl90.s
+16 cinit CODE >756:C:\Users\Ale\AppData\Local\Temp\sl90.s
+17 cinit CODE >757:C:\Users\Ale\AppData\Local\Temp\sl90.s
+18 cinit CODE >758:C:\Users\Ale\AppData\Local\Temp\sl90.s
+1D cinit CODE >762:C:\Users\Ale\AppData\Local\Temp\sl90.s
+1E cinit CODE >763:C:\Users\Ale\AppData\Local\Temp\sl90.s
+1F cinit CODE >764:C:\Users\Ale\AppData\Local\Temp\sl90.s
+20 cinit CODE >765:C:\Users\Ale\AppData\Local\Temp\sl90.s
+21 cinit CODE >766:C:\Users\Ale\AppData\Local\Temp\sl90.s
+22 cinit CODE >767:C:\Users\Ale\AppData\Local\Temp\sl90.s
+23 cinit CODE >768:C:\Users\Ale\AppData\Local\Temp\sl90.s
+24 cinit CODE >769:C:\Users\Ale\AppData\Local\Temp\sl90.s
+25 cinit CODE >770:C:\Users\Ale\AppData\Local\Temp\sl90.s
+26 cinit CODE >771:C:\Users\Ale\AppData\Local\Temp\sl90.s
+2B cinit CODE >775:C:\Users\Ale\AppData\Local\Temp\sl90.s
+2C cinit CODE >776:C:\Users\Ale\AppData\Local\Temp\sl90.s
+2D cinit CODE >777:C:\Users\Ale\AppData\Local\Temp\sl90.s
+2E cinit CODE >778:C:\Users\Ale\AppData\Local\Temp\sl90.s
+2F cinit CODE >779:C:\Users\Ale\AppData\Local\Temp\sl90.s
+30 cinit CODE >780:C:\Users\Ale\AppData\Local\Temp\sl90.s
+31 cinit CODE >781:C:\Users\Ale\AppData\Local\Temp\sl90.s
+32 cinit CODE >782:C:\Users\Ale\AppData\Local\Temp\sl90.s
+33 cinit CODE >783:C:\Users\Ale\AppData\Local\Temp\sl90.s
+38 cinit CODE >787:C:\Users\Ale\AppData\Local\Temp\sl90.s
+39 cinit CODE >788:C:\Users\Ale\AppData\Local\Temp\sl90.s
+3A cinit CODE >789:C:\Users\Ale\AppData\Local\Temp\sl90.s
+3B cinit CODE >790:C:\Users\Ale\AppData\Local\Temp\sl90.s
+3C cinit CODE >796:C:\Users\Ale\AppData\Local\Temp\sl90.s
+3C cinit CODE >798:C:\Users\Ale\AppData\Local\Temp\sl90.s
+3D cinit CODE >799:C:\Users\Ale\AppData\Local\Temp\sl90.s
 4 intentry CODE >76:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1ED text4 CODE >76:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1ED text4 CODE >77:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1F3 text4 CODE >78:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1FA text4 CODE >79:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1FF text4 CODE >80:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-208 text4 CODE >83:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+208 text4 CODE >82:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 23F text3 CODE >174:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 240 text3 CODE >175:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 246 text3 CODE >176:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
@@ -136,76 +136,76 @@ F cinit CODE >749:C:\Users\Ale\AppData\Local\Temp\saq8.s
 16D text2 CODE >183:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 175 text2 CODE >181:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 18D text2 CODE >185:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1C6 text1 CODE >139:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1C6 text1 CODE >141:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1C9 text1 CODE >142:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1CA text1 CODE >145:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1CD text1 CODE >146:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1CE text1 CODE >149:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1CF text1 CODE >150:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1D0 text1 CODE >151:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1D1 text1 CODE >152:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1D2 text1 CODE >155:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1D3 text1 CODE >156:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1D4 text1 CODE >157:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1D7 text1 CODE >158:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1DB text1 CODE >159:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1DC text1 CODE >160:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1DF text1 CODE >161:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1E0 text1 CODE >162:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1E1 text1 CODE >163:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1E4 text1 CODE >166:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1E5 text1 CODE >167:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-1E6 text1 CODE >168:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1C6 text1 CODE >138:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1C6 text1 CODE >140:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1C9 text1 CODE >141:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1CA text1 CODE >144:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1CD text1 CODE >145:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1CE text1 CODE >148:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1CF text1 CODE >149:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1D0 text1 CODE >150:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1D1 text1 CODE >151:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1D2 text1 CODE >154:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1D3 text1 CODE >155:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1D4 text1 CODE >156:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1D7 text1 CODE >157:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1DB text1 CODE >158:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1DC text1 CODE >159:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1DF text1 CODE >160:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1E0 text1 CODE >161:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1E1 text1 CODE >162:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1E4 text1 CODE >165:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1E5 text1 CODE >166:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+1E6 text1 CODE >167:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1E9 text1 CODE >169:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 1EC text1 CODE >170:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+40 maintext CODE >87:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
 40 maintext CODE >88:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-40 maintext CODE >89:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-45 maintext CODE >91:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-48 maintext CODE >92:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-49 maintext CODE >95:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-57 maintext CODE >96:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-5F maintext CODE >97:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-68 maintext CODE >98:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-73 maintext CODE >99:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-7E maintext CODE >100:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-89 maintext CODE >101:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-8D maintext CODE >102:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-90 maintext CODE >107:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-99 maintext CODE >108:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-A8 maintext CODE >109:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-AC maintext CODE >110:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-B0 maintext CODE >111:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-B1 maintext CODE >114:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-BA maintext CODE >115:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-C0 maintext CODE >116:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-C2 maintext CODE >117:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-D0 maintext CODE >118:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-D4 maintext CODE >119:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-D6 maintext CODE >124:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-DF maintext CODE >125:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-E5 maintext CODE >126:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-E7 maintext CODE >127:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-F5 maintext CODE >128:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-F9 maintext CODE >129:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-FB maintext CODE >132:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
-22C inittext CODE >723:C:\Users\Ale\AppData\Local\Temp\saq8.s
-22C inittext CODE >724:C:\Users\Ale\AppData\Local\Temp\saq8.s
-22D inittext CODE >725:C:\Users\Ale\AppData\Local\Temp\saq8.s
-22E inittext CODE >726:C:\Users\Ale\AppData\Local\Temp\saq8.s
-22F inittext CODE >727:C:\Users\Ale\AppData\Local\Temp\saq8.s
-230 inittext CODE >734:C:\Users\Ale\AppData\Local\Temp\saq8.s
-230 inittext CODE >735:C:\Users\Ale\AppData\Local\Temp\saq8.s
-235 inittext CODE >736:C:\Users\Ale\AppData\Local\Temp\saq8.s
-236 inittext CODE >737:C:\Users\Ale\AppData\Local\Temp\saq8.s
-237 inittext CODE >738:C:\Users\Ale\AppData\Local\Temp\saq8.s
-238 inittext CODE >739:C:\Users\Ale\AppData\Local\Temp\saq8.s
-239 inittext CODE >740:C:\Users\Ale\AppData\Local\Temp\saq8.s
-23A inittext CODE >741:C:\Users\Ale\AppData\Local\Temp\saq8.s
-23B inittext CODE >742:C:\Users\Ale\AppData\Local\Temp\saq8.s
-23C inittext CODE >743:C:\Users\Ale\AppData\Local\Temp\saq8.s
-23D inittext CODE >744:C:\Users\Ale\AppData\Local\Temp\saq8.s
-23E inittext CODE >745:C:\Users\Ale\AppData\Local\Temp\saq8.s
+45 maintext CODE >90:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+48 maintext CODE >91:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+49 maintext CODE >94:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+57 maintext CODE >95:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+5F maintext CODE >96:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+68 maintext CODE >97:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+73 maintext CODE >98:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+7E maintext CODE >99:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+89 maintext CODE >100:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+8D maintext CODE >101:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+90 maintext CODE >106:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+99 maintext CODE >107:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+A8 maintext CODE >108:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+AC maintext CODE >109:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+B0 maintext CODE >110:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+B1 maintext CODE >113:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+BA maintext CODE >114:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+C0 maintext CODE >115:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+C2 maintext CODE >116:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+D0 maintext CODE >117:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+D4 maintext CODE >118:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+D6 maintext CODE >123:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+DF maintext CODE >124:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+E5 maintext CODE >125:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+E7 maintext CODE >126:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+F5 maintext CODE >127:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+F9 maintext CODE >128:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+FB maintext CODE >131:C:\Users\Ale\Documents\Uvg\Micros\Micros\Labs\Lab10\Lab10.X\Lab10.c
+22C inittext CODE >723:C:\Users\Ale\AppData\Local\Temp\sl90.s
+22C inittext CODE >724:C:\Users\Ale\AppData\Local\Temp\sl90.s
+22D inittext CODE >725:C:\Users\Ale\AppData\Local\Temp\sl90.s
+22E inittext CODE >726:C:\Users\Ale\AppData\Local\Temp\sl90.s
+22F inittext CODE >727:C:\Users\Ale\AppData\Local\Temp\sl90.s
+230 inittext CODE >734:C:\Users\Ale\AppData\Local\Temp\sl90.s
+230 inittext CODE >735:C:\Users\Ale\AppData\Local\Temp\sl90.s
+235 inittext CODE >736:C:\Users\Ale\AppData\Local\Temp\sl90.s
+236 inittext CODE >737:C:\Users\Ale\AppData\Local\Temp\sl90.s
+237 inittext CODE >738:C:\Users\Ale\AppData\Local\Temp\sl90.s
+238 inittext CODE >739:C:\Users\Ale\AppData\Local\Temp\sl90.s
+239 inittext CODE >740:C:\Users\Ale\AppData\Local\Temp\sl90.s
+23A inittext CODE >741:C:\Users\Ale\AppData\Local\Temp\sl90.s
+23B inittext CODE >742:C:\Users\Ale\AppData\Local\Temp\sl90.s
+23C inittext CODE >743:C:\Users\Ale\AppData\Local\Temp\sl90.s
+23D inittext CODE >744:C:\Users\Ale\AppData\Local\Temp\sl90.s
+23E inittext CODE >745:C:\Users\Ale\AppData\Local\Temp\sl90.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -235,22 +235,22 @@ _op 75 0 COMMON 1 bssCOMMON dist/default/production\Lab10.X.production.o
 _pa A0 0 BANK1 1 dataBANK1 dist/default/production\Lab10.X.production.o
 __Hstrings 0 0 ABS 0 strings -
 _TXIF 64 0 ABS 0 - dist/default/production\Lab10.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\Ale\AppData\Local\Temp\saq8.o
+___sp 0 0 STACK 2 stack C:\Users\Ale\AppData\Local\Temp\sl90.o
 _main 80 0 CODE 0 maintext dist/default/production\Lab10.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\Lab10.X.production.o
-start 18 0 CODE 0 init C:\Users\Ale\AppData\Local\Temp\saq8.o
+start 18 0 CODE 0 init C:\Users\Ale\AppData\Local\Temp\sl90.o
 __size_of_main 0 0 ABS 0 - dist/default/production\Lab10.X.production.o
 __HbssCOMMON 0 0 ABS 0 bssCOMMON -
 __LidataBANK0 0 0 ABS 0 idataBANK0 -
 __LidataBANK1 0 0 ABS 0 idataBANK1 -
 __LidataBANK3 0 0 ABS 0 idataBANK3 -
 __Hpowerup 0 0 CODE 0 powerup -
-intlevel0 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\saq8.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\saq8.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\saq8.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\saq8.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\saq8.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\saq8.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\sl90.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\sl90.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\sl90.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\sl90.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\sl90.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\Ale\AppData\Local\Temp\sl90.o
 __LbssCOMMON 0 0 ABS 0 bssCOMMON -
 _OSCCONbits 8F 0 ABS 0 - dist/default/production\Lab10.X.production.o
 wtemp0 7E 0 ABS 0 - dist/default/production\Lab10.X.production.o
@@ -261,14 +261,14 @@ __end_of_send_char 492 0 CODE 0 text3 dist/default/production\Lab10.X.production
 __size_of_send_char 0 0 ABS 0 - dist/default/production\Lab10.X.production.o
 __Lmaintext 0 0 ABS 0 maintext -
 _send_char 47E 0 CODE 0 text3 dist/default/production\Lab10.X.production.o
-___stackhi 0 0 ABS 0 - C:\Users\Ale\AppData\Local\Temp\saq8.o
-___stacklo 0 0 ABS 0 - C:\Users\Ale\AppData\Local\Temp\saq8.o
+___stackhi 0 0 ABS 0 - C:\Users\Ale\AppData\Local\Temp\sl90.o
+___stacklo 0 0 ABS 0 - C:\Users\Ale\AppData\Local\Temp\sl90.o
 _BAUDCTLbits 187 0 ABS 0 - dist/default/production\Lab10.X.production.o
 __size_of_setup 0 0 ABS 0 - dist/default/production\Lab10.X.production.o
 start_initialization 1E 0 CODE 0 cinit dist/default/production\Lab10.X.production.o
 _SPBRGH 9A 0 ABS 0 - dist/default/production\Lab10.X.production.o
 __pcstackBANK0 61 0 BANK0 1 cstackBANK0 dist/default/production\Lab10.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\Ale\AppData\Local\Temp\saq8.o
+___int_sp 0 0 STACK 2 stack C:\Users\Ale\AppData\Local\Temp\sl90.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -320,7 +320,7 @@ _pa1 22 0 BANK0 1 dataBANK0 dist/default/production\Lab10.X.production.o
 saved_w 7E 0 ABS 0 - dist/default/production\Lab10.X.production.o
 __end_of_isr 41E 0 CODE 0 text4 dist/default/production\Lab10.X.production.o
 __Lintentry 8 0 CODE 0 intentry -
-reset_vec 0 0 CODE 0 reset_vec C:\Users\Ale\AppData\Local\Temp\saq8.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\Ale\AppData\Local\Temp\sl90.o
 __pdataBANK0 20 0 BANK0 1 dataBANK0 dist/default/production\Lab10.X.production.o
 __pdataBANK1 A0 0 BANK1 1 dataBANK1 dist/default/production\Lab10.X.production.o
 __pdataBANK3 190 0 BANK3 1 dataBANK3 dist/default/production\Lab10.X.production.o
